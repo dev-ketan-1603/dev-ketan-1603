@@ -94,7 +94,7 @@ A fun interactive birthday website.
 ## 📫 Connect with Me
 
 - GitHub: https://github.com/dev-ketan-1603
-## Hi there 👋
+
 
 <!--
 **dev-ketan-1603/dev-ketan-1603** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
