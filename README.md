@@ -99,16 +99,10 @@ I'm **Ketan**, a 2nd year B.Tech CSE (AI/ML) student at Lovely Professional Univ
 <!-- 05 PROJECTS -->
 <img src="./assets/sec-projects.svg" alt="Projects" width="100%" />
 
-<table>
-<tr>
-<td width="50%"><img src="./assets/proj-cdp.svg" alt="CDP Website" width="100%" /></td>
-<td width="50%"><img src="./assets/proj-stayeii.svg" alt="Stayeii" width="100%" /></td>
-</tr>
-<tr>
-<td width="50%"><img src="./assets/proj-birthday.svg" alt="Birthday Surprise" width="100%" /></td>
-<td width="50%"><img src="./assets/proj-freelance.svg" alt="Freelance Studio" width="100%" /></td>
-</tr>
-</table>
+<img src="./assets/proj-cdp.svg" width="49%" alt="CDP Website" />
+<a href="https://github.com/dev-ketan-1603/STAI"><img src="./assets/card-02-stai.svg" width="49%" alt="STAI" /></a>
+<a href="https://github.com/dev-ketan-1603/skill_setu"><img src="./assets/card-03-skill-setu.svg" width="49%" alt="Skill Setu" /></a>
+<a href="https://github.com/dev-ketan-1603/portfolio"><img src="./assets/card-04-portfolio.svg" width="49%" alt="Portfolio" /></a>
 
 <br/>
 
@@ -256,10 +250,10 @@ Got a tricky snippet that would stump me? [Open an issue](https://github.com/dev
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dev-ketan-1603&show_icons=true&include_all_commits=true&bg_color=C4B5FD&title_color=111111&text_color=111111&icon_color=7C3AED&ring_color=111111&border_color=111111&border_radius=12" width="100%" alt="GitHub stats" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dev-ketan-1603&show_icons=true&include_all_commits=true&bg_color=C4B5FD&title_color=111111&text_color=111111&icon_color=7C3AED&ring_color=111111&border_color=111111&border_radius=12" width="100%" alt="GitHub stats" />
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ketan-1603&layout=compact&langs_count=6&bg_color=FFD93D&title_color=111111&text_color=111111&border_color=111111&border_radius=12" width="100%" alt="Top languages" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dev-ketan-1603&layout=compact&langs_count=6&bg_color=FFD93D&title_color=111111&text_color=111111&border_color=111111&border_radius=12" width="100%" alt="Top languages" />
 </td>
 </tr>
 <tr>
@@ -267,12 +261,9 @@ Got a tricky snippet that would stump me? [Open an issue](https://github.com/dev
 <img src="https://streak-stats.demolab.com/?user=dev-ketan-1603&background=FF6BB5&border=111111&stroke=111111&ring=111111&fire=111111&currStreakLabel=111111&sideLabels=111111&currStreakNum=111111&sideNums=111111&dates=111111&border_radius=12" width="80%" alt="Contribution streak" />
 </td>
 </tr>
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dev-ketan-1603&bg_color=C4B5FD&color=111111&line=7C3AED&point=111111&area=true&area_color=8B5CF6&hide_border=false&border_color=111111" width="100%" alt="Contribution activity graph" />
-</td>
-</tr>
 </table>
+
+### Snake eating my contributions
 
 <div align="center">
 
