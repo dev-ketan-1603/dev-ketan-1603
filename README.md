@@ -101,10 +101,12 @@ I'm **Ketan**, a 2nd year B.Tech CSE (AI/ML) student at Lovely Professional Univ
 
 <table>
 <tr>
-<td width="25%"><img src="./assets/proj-cdp.svg" width="100%" alt="CDP Website" /></td>
-<td width="25%"><a href="https://github.com/dev-ketan-1603/STAI"><img src="./assets/card-02-stai.svg" width="100%" alt="STAI" /></a></td>
-<td width="25%"><a href="https://github.com/dev-ketan-1603/skill_setu"><img src="./assets/card-03-skill-setu.svg" width="100%" alt="Skill Setu" /></a></td>
-<td width="25%"><a href="https://github.com/dev-ketan-1603/portfolio"><img src="./assets/card-04-portfolio.svg" width="100%" alt="Portfolio" /></a></td>
+<td width="50%"><img src="./assets/proj-cdp.svg" width="100%" alt="CDP Website" /></td>
+<td width="50%"><a href="https://github.com/dev-ketan-1603/STAI"><img src="./assets/card-02-stai.svg" width="100%" alt="STAI" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/dev-ketan-1603/skill_setu"><img src="./assets/card-03-skill-setu.svg" width="100%" alt="Skill Setu" /></a></td>
+<td width="50%"><a href="https://github.com/dev-ketan-1603/portfolio"><img src="./assets/card-04-portfolio.svg" width="100%" alt="Portfolio" /></a></td>
 </tr>
 </table>
 
