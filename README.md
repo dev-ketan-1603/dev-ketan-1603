@@ -1,4 +1,4 @@
-<div align="center">
+﻿<div align="center">
 
 <img src="./assets/header.svg" alt="Ketan Yadav, 2nd year B.Tech CSE (AI/ML)" width="100%" />
 
